@@ -1,0 +1,12 @@
+{
+  "name": "storagesync-js",
+  "version": "1.0.0",
+  "description": "A tiny JS wrapper for localStorage and sessionStorage with expiry, encryption, and multi-tab sync.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Use demo.html or unit tests\""
+  },
+  "keywords": ["localStorage", "sessionStorage", "storage", "sync", "vanilla-js", "utility"],
+  "author": "alanthomasdev",
+  "license": "MIT"
+}
