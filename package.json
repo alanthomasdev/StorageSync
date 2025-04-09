@@ -8,5 +8,13 @@
   },
   "keywords": ["localStorage", "sessionStorage", "storage", "sync", "vanilla-js", "utility"],
   "author": "alanthomasdev",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanthomasdev/StorageSync"
+  },
+  "bugs": {
+    "url": "https://github.com/alanthomasdev/StorageSync/issues"
+  },
+  "homepage": "https://github.com/alanthomasdev/StorageSync#readme"
 }
