@@ -108,6 +108,6 @@ Pull requests, suggestions, and issues are welcome! If you find a bug or want a 
 
 ## ✨ Author
 
-Created by **[Your Name]** – a passionate full-stack developer.
+Created by **Alan Thomas** – a passionate full-stack developer.
 
 Let’s connect on [GitHub](https://github.com/alanthomasdev "alanthomasdev")!
